@@ -1,7 +1,7 @@
 # KhasiRobertaPOS
-Download the pretrained Khasi language model from [here](https://drive.google.com/drive/folders/15P1B5TlPIaqUZDJEE43GkOm7V9QS-rXV?usp=drive_link)<br>  
+Download the pretrained Khasi language model from [here](https://drive.google.com/drive/folders/15P1B5TlPIaqUZDJEE43GkOm7V9QS-rXV?usp=sharing)<br>  
 
-Download the trained RoPOS(Roberta for KhasiPOS tagging) model from [here](https://drive.google.com/drive/folders/1vhgPVqFsmZjWxHuk_wepwqiRnb4OTki2?usp=sharing)<br>  
+Download the trained RoPOS(Roberta for KhasiPOS tagging) model from [here](https://drive.google.com/file/d/1V86YdLmjWgPWwDFpzx2LaMwsfwkRfXau/view?usp=sharing)<br>  
 * To train the Language model, open the KhasiRobLM.ipynb notebook and run the cells <br>
 
 * Create a CheckPoint directory for saving checkpoints while training and a BestModel directory for saving the best model <br>
