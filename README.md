@@ -18,4 +18,5 @@ Open Ropos.ipynb and follow the steps :<br>
 
 ***
 #### Acknowledgement
-U Rupang , the Khasi daily, is the source for our newspaper articles. 
+U Rupang , the Khasi daily, is the source for our newspaper articles. <br>  
+[link to base dataset](https://github.com/sunitawarjri/Khasi-Corpus/blob/master/Khasi%20Corpus.txt)
